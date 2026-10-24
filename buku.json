@@ -1,0 +1,18 @@
+[
+  {
+    "kodebuku": "BK-001",
+    "judul": "Laskar Pelangi",
+    "peminjam": "-",
+    "tanggalpinjam": "-",
+    "batastanggalkembali": "-",
+    "status": "tersedia"
+  },
+  {
+    "kodebuku": "BK-002",
+    "judul": "Bumi Manusia",
+    "peminjam": "fahmi",
+    "tanggalpinjam": "2026-10-24",
+    "batastanggalkembali": "2026-11-03",
+    "status": "dipinjam"
+  }
+]
